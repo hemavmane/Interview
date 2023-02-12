@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       .div{
+        display: grid;
+        width: 700px;
+       
+        /* grid-template-columns:50px 150px 1fr 1fr 2fr ; */
+        background-color: green;
+        border: 5px solid rgb(64, 59, 104);
+        /* position: relative; */
+       }
+        .div1{
+            width:100% ;
+            height: 10vh;
+            background-color: red;
+        }
+        .div2{
+            width:100% ;
+            height: 10vh;
+            background-color: blue;
+        }
+
+        .div3{
+            width:100% ;
+            height: 10vh;
+            background-color: rgb(148, 158, 145);
+           
+        }
+
+        .div4{
+            width:100% ;
+            height: 10vh;
+            background-color: rgb(0, 255, 213);
+           
+          
+        }
+
+        .div5{
+            width:100% ;
+            height: 10vh;
+            background-color: rgb(61, 56, 56);
+            
+            /* it will change accoedingly screen  but when u given positionrelative to his immideate
+            parent then it will change accordingly immidiate parent */
+        }
+  /* relative :it will change according to own actual    position  or from origin */
+   /* sticky will sticky on after that position how much you given */
+   /* fix will fix from given position */
+    </style>
+</head>
+<body>
+    <div class="div">
+        <div class="div1">
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos illum laudantium iusto voluptates soluta, nulla laboriosam! Magni in, veniam illo eveniet hic dolore eum! Iure, totam! Minus alias nobis aut.</p>
+        </div>
+        <div class="div2"></div>
+        <div class="div3"></div>
+        <div class="div4"></div>
+        <div class="div5" ></div>
+        <!-- <div class="div6"></div> -->
+<script src="index.css"></script>
+    </div>
+</body>
+</html>

@@ -1,0 +1,40 @@
+.container{
+    width: 40%;
+    height: 30vh;
+    background-color: black;
+    position: relative;
+}
+
+.ball{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+   
+}
+
+.ball1{
+    /* position: absolute; */
+    left: 0;
+    top: 0;
+}
+
+.ball2{
+    /* position: absolute; */
+    right: 0;
+    top: 0;
+}
+
+.ball3{
+    /* position: absolute; */
+    bottom: 0;
+    right: 0;
+}
+
+.ball4{
+    /* position: absolute; */
+    left: 0;
+    bottom: 0;
+}
+

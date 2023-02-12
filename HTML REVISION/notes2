@@ -1,0 +1,97 @@
+
+DOCTYPE is not an HTML element or HTML tag. It tells the version or standard of HTML using which we write the HTML document.            
+difference HTML Elements and	Tags
+
+////////////////////////////////////////////////////////////////
+Some elements have been removed – applet, isindex, noframes, acronym, dir, font, frame, frameset, and big are removed. 
+New elements have been added – time, summary, aside, audio, command, and data.
+////////////////////////////////////////////////
+Elements//
+1. The element is an individual component of the HTML
+ web page or document that consists of a start tag, its attributes, 
+ an end tag, and everything in between. 
+ 2. They usually consist of a start tag, content, and an end tag.
+ 3. HTML Elements hold the content.	
+ 4. They specify the general content.	
+ 5. For example, <p>This is an example of a paragraph.</p>
+
+ Tag//
+1. HTML tag (either opening or closing) is used to mark the start or end of an element.
+
+2. They begin with < symbol and end with > symbol. Whatever is written inside < and > are called tags.
+
+ 3. HTML Tags hold the HTML element.
+
+4. HTML tags are like keywords. Each tag has a unique meaning.
+
+5. For example, <a> is an opening anchor tag and </a> is a closing anchor tag.
+////////////////////////////////////////////////////////////////////////////
+
+What are HTML Attributes?
+Ans. HTML attributes provide additional information about HTML elements. They are defined directly after the tag name. They only appear in opening tags and not in closing tags. 
+
+HTML attributes usually consist of name/value pairs like name=”value”. The Attribute values should always be enclosed in quotation marks. The name parameter takes the name of the property that is to be assigned to the element. The value takes the property value or extent of the property names that can be aligned over the element. 
+
+Some commonly used HTML attributes include src Attribute, alt Attribute, id Attribute, and href Attribute. 
+
+//////////////////////////////////////////////////////////////////////////
+WHAT ARE SEMENTIC ELEMENT
+It introduces meaning to the code we write.
+<!-- <form>, <table>, and <article> these tags clearly defines its content. -->
+
+////////////////////////////////////////////////////
+The HTML <article> Element specifies independent and self-contained content in a document, page, application, or site, which is independently distributable or reusable.
+
+///////////////////////////////////////////////////////////////
+
+<header>: define a header for a document or a section.
+<nav>: defines a container for navigation links
+<section>: it defines a section in a document
+<article>: define an independent, self-contained article
+<aside>: it defines content aside from the content
+<footer>: define a footer for a document or a section
+<details>: define additional details
+
+//////////////////////////////////////////
+
+Block-level Elements////
+They start on a new line.
+They have a top and a bottom margin.
+Examples of block-level elements in HTML:
+ <div>, <img>, <form>, <main>, <table>, <video>.
+
+Inline element
+ Do not start on a new line and can begin within a line.
+ Inline elements do not have a top and a bottom margin. 
+ Examples of inline elements: 
+ <span>, <img>, <strong>, <code>, <input>, <time>, <i>.
+
+ ///////////////////////////////////////////////////////
+
+ src attribute –  It is used to add the path to the image (URL of the image). 
+alt attribute – It is for adding alternate text.
+Width – To add the width of the image
+Height – To add the height of the image
+
+////////////////////////////////////////////////
+
+LocalStorage Object	SessionStorage Object
+1. It stores the data without an expiry date.
+2. The data can be shared between multiple windows of the browser.
+3. Data is not deleted when the browser window closes.
+
+    SessionStorage object//
+1. Stores the data for only one session.
+	
+2. Data is accessible only in the current window of the browser.
+	
+3. The data is deleted if the browser window closes.
+
+////////////////////////////////////////////////////////
+
+What are the different media types and formats supported by HTML?
+Ans. HTML supports a variety of media formats for sound, music, videos, movies, and animations. The different formats supported by HTML are: 
+
+Images: jpg, jpeg, png, gif, svg, apng, BMP ico
+Audio: RealAudio, WMA, MIDI, AAC, WAV, MP3, MP4
+Video: MPEG, AVI, QuickTime, RealVideo, WMV, Flash, WebM, and MP4

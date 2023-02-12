@@ -1,0 +1,29 @@
+GIT
+First, let’s take a look at git. This is a 
+version control software for developers:
+
+Version control refers to the process of saving different files or ‘versions’ throughout the various stages of a project (check also: WordPress version control). This enables developers to keep track of what has been done and return to a previous phase if they decide they want to revert some of the changes they’ve made.
+Git also enables you to ‘push’ and ‘pull’ changes to and from installations on other computers
+This makes it what is known as a ‘Distributed Version Control System’, and enables multiple developers to work on the same project.
+
+GITHUB
+GitHub makes it easier to collaborate using git. It’s a platform that can hold repositories of code in cloud-based storage so that multiple developers can work on a single project and see each others’ edits in real-time:
+
+git is a local VCS software that enables developers to save snapshots of their projects over time. It’s generally best for individual use.
+GitHub is a web-based platform that incorporates git’s version control features so they can be used collaboratively. It also includes project and team management features, as well as opportunities for networking and social coding.
+
+
+
+
+
+
+The git config command is a convenient way to set configuration options for defining the behavior of the repository, user information and preferences, git installation-based configurations, and many such things. 
+
+For example:
+To set up your name and email address before using git commands, we can run the below commands:
+
+git config --global
+user.name
+“<<your_name>>”
+ 
+git config --global user.email “<<your_email>>”

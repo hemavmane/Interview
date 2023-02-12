@@ -1,0 +1,133 @@
+<!-- what is html?
+<!-- hyper text markup language -->
+<!-- Hyper Text: HyperText simply means "Text within Text." -->
+<!-- ->A text has a link within it, is a hypertext. Whenever you click -->
+<!-- ->on a link which brings you to a new webpage, you have clicked on -->
+<!-- ->a hypertext. -->
+<!-- -> HyperText is a way to link two  -->
+<!-- ->or more web pages (HTML documents) with each other. -->
+<!-- //////////////////////////// -->
+<!-- what is marquee in html -->
+<!-- its takes full width of screen which is fixed for marque its 
+flow left to right it will scrolll bydefault
+right to left depnds on given direction -->
+<!-- this is the tag which have bgcolor="" attribut  which used to set 
+background color to the html tag
+<!-- <marquee bgcolor=""/> --> -->
+<!-- -///////////////////////////////////////////// -->
+<!-- input tag -->
+<!-- input tag is empty tag  -->
+<!-- which is used to represent form input control in html doc -->
+
+<!-- //////////////////////// -->
+
+//////////////// difeerncce bet tag and element and  atritbut
+HTML tag starts with < and ends with >	
+Whatever written within a HTML tag are HTML elements.
+	HTML attributes are found only in the starting tag.
+
+     The Browser Object Model (BOM) allows JavaScript to "talk to" the browser. 
+     The Browser Object Model (BOM). 
+     There are no official standards for the Browser ...
+
+
+<!-- All HTML tags must be enclosed within angular < > brackets. -->
+<!-- ////////////////////////////////// -->
+<!-- Which of the following HTML tag is used to display the text with scrolling 
+effect? -->
+<!-- the <marquee> tag is a non-standard HTML element that is
+     used to scroll a text or image either horizontally or vertically. -->
+
+<!-- In simple words, we can say that it automatically scrolls the 
+      image or text in up,
+     down, left, and right direction. -->
+
+<!-- /////////////////////////////////////////////////// -->
+     <!-- Which of the following HTML tag is the special formatting tag? -->
+<!-- The HTML
+<pre>
+ tag is used to specify pre-formatted texts.
+  Texts within <pre>…</pre> tag is displayed in 
+  a fixed-width font. Usually, it is displayed in courier font.
+  It maintains both line break space like if i given on break
+  after any text that will go to next it means that will consider space -->
+<!-- in case of pre it will take specific fixed witdh and in case of p its allow next element to its line -->
+<!-- ///////////////////////////////////////////////////// -->
+<!-- <a href = "mailto: xy@y"> -->
+
+    <!-- Explanation: We can use the <a> (anchor tag) tag,
+         and the href attribute to mail a person. -->
+
+
+         <!-- <body background = "img.png"> -->
+
+            <!-- ////////////////////////// -->
+ <!-- tag syntax           -->
+ <!-- <tag> content </tag>   -->
+<!-- //////////////////////////////////////////////////////////// -->
+ <!-- html formating  -->
+ <!-- html formating means this is the processor of making text bettr without uising csss  -->
+<!-- like bold italic -->
+
+<!-- 14 formatingtag -->
+<!-- <b></b> -->
+<!-- <i></i> -->
+<!-- <strong></strong> -->
+<!-- <em></em> -->
+<!-- mark -->
+<!-- u -->
+<!-- tt -->
+<!-- strike -->
+<!-- sup -->
+<!-- sub -->
+<!-- del -->
+<!-- ins -->
+<!-- big -->
+<!-- small -->
+<!-- /////////////////////////////////////////// -->
+<!-- The HTML provides an anchor tag to create a hyperlink that links
+ one page to another page. These tags can appear in any of the following ways: -->
+<!-- Unvisited link - It is displayed, underlined and blue.
+Visited link - It is displayed, underlined and purple. 
+<!-- Active link - It is displayed, underlined and red. -->
+
+<!-- ////////////////////////////////////////////////////////// -->
+
+
+
+<!-- <table>	It defines a table. -->
+    <!-- <tr>	It defines a row in a table. -->
+        <!-- <th>	It defines a header cell in a table. -->
+ <!-- <td>	It defines a cell in a table. -->
+  <!-- <colgroup>	It specifies a group of one or more columns in a table for
+   formatting. -->
+    <!-- <col>	It is used with <colgroup> element to specify column properties 
+    for each column. -->
+<!-- <tbody>	It is used to group the body content in a table. -->
+  <!-- <thead>	It is used to group the header content in a table. -->
+
+   <!-- <tfooter>	It is used to group the footer content in a table. -->
+
+<!-- //////////////////////////////////////// -->
+
+<!-- HTML elements communicate to the browser to render text -->
+<!-- ///////////////// -->
+<!-- Semantic HTML is a coding style. It is the use of HTML markup to
+ reinforce the semantics or meaning of the content. For example: In semantic HTML <b> </b> tag is not used for bold statement as well as <i> </i> tag is used for italic. 
+Instead of these we use <strong></strong> and <em></em> tags -->
+
+
+<!-- //////////////////////////////////  image map -->
+
+<!-- this tag is used to show the multipe iamges in single tag -->
+
+ <!-- ARVl -->
+1)array
+2)object 
+4)string
+5)data
+6)form
+css flex box 
+position
+
+ -->
